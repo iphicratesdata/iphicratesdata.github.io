@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: States Of Mind
+name: MODERN MUSHIN
 
 # Short bio or description (displayed in the header)
-description: Exploring States of Mind and the practices that achieve them which enhance the human experience and elevate leves of consciousness.
+description: Mindset and Lifestyle Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: S.O.M.
+disqus: M.M.
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://statesofmind.github.io
+url: http://modernmushin.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
