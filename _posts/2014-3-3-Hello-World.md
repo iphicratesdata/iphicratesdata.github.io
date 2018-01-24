@@ -1,5 +1,5 @@
 ---
 layout: post
-title: The Mind No-Mind; The Flow State!
+title: The Mind of No-Mind; The Flow State!
 ---
 
