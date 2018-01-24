@@ -1,5 +1,5 @@
 ---
 layout: post
-title: The Mind of No-Mind; The Flow State!
+title: "Mushin No Shin (無心の心)": The Mind of No-Mind;
 ---
 
