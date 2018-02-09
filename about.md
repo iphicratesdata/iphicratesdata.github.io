@@ -8,7 +8,7 @@ permalink: /about/
   
   
 <p align="center">
-   <img src=https://raw.githubusercontent.com/mindofnomind/mindofnomind.github.io/master/images/samurai_way_1.jpeg>
+   <img src="https://raw.githubusercontent.com/mindofnomind/mindofnomind.github.io/master/images/samurai_way_1.jpeg">
 </p>
 
 
