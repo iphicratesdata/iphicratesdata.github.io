@@ -30,7 +30,7 @@ title: Welcome and Introduction
    As any potential reader of this blog, it is very evident for them to see how deep the rabbit hole can go for exploring such subject matter.  I truly believe that if I can even scratch the surface of these topics, or at least give them the proper representation to give them justice,  I would be satisfied with such content.  However that being said,  I hope to do much more through the development and progression of this sites direction.  I hope readers can find something to take from these explorations and writings.  
    
    
- OSS.
+   OSS.
 
 
 
