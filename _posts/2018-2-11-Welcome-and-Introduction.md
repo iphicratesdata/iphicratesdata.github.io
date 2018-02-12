@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail:"https://raw.githubusercontent.com/mindofnomind/mindofnomind.github.io/master/images/jekyll-logo.png"
+thumbnail: "https://raw.githubusercontent.com/mindofnomind/mindofnomind.github.io/master/images/jekyll-logo.png"
 title: Welcome and Introduction
 ---
 
