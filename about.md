@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-   Mind of No-Mind is a blog about the journey through this incarnation of the human experience and the constant endeavor of self discovery by way of reaching higher levels of consciousness and expanding knowledge. Using Martial Arts and Meditation training in conjunction with philosophy and history as a guide in our modern world abundant with everyday chaos and distraction. 
+   Mind of No-Mind is a blog about the journey of our current incarnation through the human experience, and the pursuit of self discovery by reaching higher levels of consciousness and expanding knowledge. 
+   
+   Using Martial Arts and Meditation training, in conjunction with philosophy and history, as a guide in our modern world abundant with everyday chaos and distraction. 
   
   
 <p align="center">
