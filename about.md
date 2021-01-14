@@ -13,4 +13,4 @@ permalink: /about/
 
 ### Contact 
 
-[rollingbagelz@gmail.com](mailto:rollingbagelz@gmail.com)
+[rollingbagelz@gmail.comremove](mai(remove)lto:rollingbagelz@gmail.com)
